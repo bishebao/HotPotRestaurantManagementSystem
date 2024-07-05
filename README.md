@@ -1,0 +1,2 @@
+# HotPotRestaurantManagementSystem
+ 基于SpringBoot Vue火锅店管理系统
